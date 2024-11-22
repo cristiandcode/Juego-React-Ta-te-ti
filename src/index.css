@@ -79,11 +79,12 @@ body {
   height: 70px;
   pointer-events: none;
   border-color: transparent;
+  
 }
 
 .square.is-selected {
   color: #fff;
-  background: #09f;
+  background: red;
 }
 
 .winner {
